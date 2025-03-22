@@ -50,6 +50,7 @@
     "autoprefixer": "^10.4.17",
     "bundle-declarations-webpack-plugin": "^5.0.1",
     "dotenv": "^16.4.5",
+    "electron": "^35.0.3",
     "eslint": "^8.56.0",
     "eslint-import-resolver-typescript": "^3.6.3",
     "eslint-plugin-import": "^2.29.1",
