@@ -6,7 +6,7 @@
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
   "devDependencies": {
-    "electron": "^24.6.3"
+    "electron": "^28.3.2"
   },
   "scripts": {
     "build": "tsc"
